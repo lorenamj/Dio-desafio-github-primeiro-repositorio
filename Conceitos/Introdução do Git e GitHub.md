@@ -6,8 +6,8 @@
 
 
 
-​                            GIT                                        :arrow_right:                            GitHub
-        #####                  (Servidor/computador)                                         (nuvem/remoto)
+​        GIT       **(servidor/Computador)   **    :arrow_right:          GitHub **(nuvem/remoto)**
+​                               
 
 
 
